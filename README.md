@@ -1,4 +1,4 @@
-,,,
+
 
 ### React Refs ile yapılabilecek çeşitli işlemleri isim isim listeleyelim:
 
@@ -56,4 +56,4 @@
 
 ### Bu liste, React Refs’in çeşitli kullanım senaryolarını özetlemektedir. Daha spesifik örnekler veya detaylı açıklamalar isterseniz, herhangi bir konuyu daha derinlemesine ele alabiliriz.
 
-,,,
+
